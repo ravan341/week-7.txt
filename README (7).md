@@ -30,7 +30,8 @@ A Regression type prediction model using *Random Forest Classifier* algorithm. I
 6) Clicked build now
 
 #### Output
-![image](https://github.com/user-attachments/assets/346b8801-6adb-468b-80c0-1cfbd6abe7e8)
+![229735f1-4092-4a50-89b3-a643866bf71c](https://github.com/user-attachments/assets/fd41fc4a-e07e-4b4b-8037-7b15f1371221)
+
 
 
 
